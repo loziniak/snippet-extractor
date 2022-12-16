@@ -19,9 +19,9 @@ module SnippetExtractor
           	as well}
 
           function add100 [x [integer!]] [
-          	"; this should not count as comment "
-          	{ comment [and neither
-          	 this] }
+          	" Random text "
+          	{ Random
+          	 thing sorry I don't know red }
           ]
         CODE
 
